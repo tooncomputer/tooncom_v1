@@ -16,7 +16,7 @@ echo"<META HTTP-EQUIV=Refresh Content=0;URL='menu_sale.php' >";exit();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-874" />
-<title>ทูนคอมพิวเตอร์</title>
+<title>ทูนคอมพิวเตอร์ดอทคอม</title>
 <style type="text/css">
 <!--
 body {
